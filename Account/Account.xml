@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone="no"?>
+<!DOCTYPE Account SYSTEM "Account.dtd">
+
+<Account xmi.id = "c7">
+    <Account.emailAddress>olowookd@tcd.ie</Account.emailAddress>
+    <Account.username>olowookd</Account.username>
+    <Account.password>notMyRealPassword</Account.password>
+    <Account.shippingAddress>27 Pineapple Lane, Co. Wexford</Account.shippingAddress>
+    <Account.cardDetails>12345678910111213141516</Account.cardDetails>
+
+</Account>

@@ -1,0 +1,8 @@
+<!ELEMENT Account (Account.emailAddress,Account.username,Account.password,Account.shippingAddress,Account.cardDetails)>
+<!ATTLIST Account xmi.id ID #REQUIRED>
+
+<!ELEMENT emailAddress (#PCDATA)>
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+<!ELEMENT Account.shippingAddress (#PCDATA)>
+<!ELEMENT Account.cardDetails (#PCDATA)>
